@@ -13,7 +13,7 @@
 1. Окно входа
    
    ![](https://github.com/Durax66/ItogOOP-Tusk4--/blob/master/screenshots/screen%201.png)
-   ![]()
+   ![](https://github.com/Durax66/ItogOOP-Tusk4--/blob/master/screenshots/sreen%202.png)
 ## Установка
 
 1. Клонируйте репозиторий:
